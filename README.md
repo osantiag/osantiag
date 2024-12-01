@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @osantiag
-- 👀 I’m interested in aprender mais sobre a área de programação.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on áreas voltadas a tecnologia.
-- 📫 How to reach me @victor_santiiago no instagram
-- ⚡ Fun fact: queria aprender um pouco sobre a área de dados no entanto não sei como começar
+👋 Hi, I’m @osantiag
+👀 I’m interested in learning more about programming.
+🌱 I’m currently learning Python.
+💞️ I’m looking to collaborate in technology-related areas.
+📫 How to reach me: @victor_santiiago on Instagram.
+⚡ Fun fact: I want to learn a bit about the data field, but I don't know how to start.
 
 <!---
 osantiag/osantiag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
